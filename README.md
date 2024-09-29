@@ -13,6 +13,7 @@
 - 📫 How to reach me: ...
 
 ## 🏫 Where I Work:
+ - I teach Network Programming at : 
 [Humber College](https://humber.ca)
 
 ![Humber College](https://img.shields.io/badge/Humber_College-003B2E?style=for-the-badge&logo=Humber&logoColor=white)
@@ -53,6 +54,18 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
+## ✨ Fun Facts:
+- 🌟 I love contributing to Open Source projects.
+- 💬 Ask me about [Technology/Topic].
+
+## 🤝 Connect with Me:
+
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/nahid-sekander-43393b253/)
+- **Email**: [sekander@protonmail.com](mailto:sekander@protonmail.com)
+- **Wix Website**: [Your Wix Website](https://n01001831.wixsite.com/nahid-sekander-game)
+- **Personal Website**: [Your Personal Website](https://www.fnkyg3ek.duckdns.org)
+
+
 <!--
 ## 🔥 GitHub Stats:
 <p align="center">
@@ -65,9 +78,6 @@
 </p>
 -->
 
-## ✨ Fun Facts:
-- 🌟 I love contributing to Open Source projects.
-- 💬 Ask me about [Technology/Topic].
 
 <!--
 **sekander/sekander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
