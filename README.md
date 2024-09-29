@@ -60,10 +60,10 @@
 
 ## 🤝 Connect with Me:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/nahid-sekander-43393b253/)
+- **LinkedIn**: [Nahid Sekander LinkedIn](https://www.linkedin.com/in/nahid-sekander-43393b253/)
 - **Email**: [sekander@protonmail.com](mailto:sekander@protonmail.com)
-- **Wix Website**: [Your Wix Website](https://n01001831.wixsite.com/nahid-sekander-game)
-- **Personal Website**: [Your Personal Website](https://www.fnkyg3ek.duckdns.org)
+- **Wix Website**: [Wix Website](https://n01001831.wixsite.com/nahid-sekander-game)
+- **Personal Website**: [Self-Hosted Website](https://www.fnkyg3ek.duckdns.org)
 
 
 <!--
