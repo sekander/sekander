@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Web Apps, Video Game Projects**
 - 🤔 I’m looking for help with **Optimization**
 - 💬 Ask me about **My Web Server**
-- 📫 How to reach me: [connect with me](#connect-with-me)
+- 📫 How to reach me: [connect with me](#-connect-with-me)
 
 ## 🏫 Where I Work:
  - I teach Network Programming at : 
