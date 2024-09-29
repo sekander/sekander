@@ -62,7 +62,7 @@
 
 - **LinkedIn**: [Nahid Sekander LinkedIn](https://www.linkedin.com/in/nahid-sekander-43393b253/)
 - **Email**: [sekander@protonmail.com](mailto:sekander@protonmail.com)
-- **Wix Website**: [Wix Website](https://n01001831.wixsite.com/nahid-sekander-game)
+- **Wix Website**: [Game Dev Profile](https://n01001831.wixsite.com/nahid-sekander-game)
 - **Personal Website**: [Self-Hosted Website](https://www.fnkyg3ek.duckdns.org)
 
 
