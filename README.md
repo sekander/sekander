@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Web Apps, Video Game Projects**
 - 🤔 I’m looking for help with **Optimization**
 - 💬 Ask me about **My Web Server**
-- 📫 How to reach me: [connect with me]
+- 📫 How to reach me: [connect with me](#connect-with-me)
 
 ## 🏫 Where I Work:
  - I teach Network Programming at : 
@@ -58,7 +58,7 @@
 - 🌟 I love contributing to Open Source projects.
 - 💬 Ask me about [Technology/Topic].
 
-## 🤝 Connect with Me {#connect-with-me}(#connect-with-me):
+## 🤝 Connect with Me {#connect-with-me}:
 
 - **LinkedIn**: [Nahid Sekander LinkedIn](https://www.linkedin.com/in/nahid-sekander-43393b253/)
 - **Email**: [sekander@protonmail.com](mailto:sekander@protonmail.com)
