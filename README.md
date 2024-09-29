@@ -5,12 +5,12 @@
 
 ## 👨‍💻 About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on **Personal Projects** 
+- 🌱 I’m currently learning **Full-Stack focusing on Backedn**
+- 👯 I’m looking to collaborate on **Web Apps, Video Game Projects**
+- 🤔 I’m looking for help with **Optimization**
+- 💬 Ask me about **My Web Server**
+- 📫 How to reach me: [connect with me]
 
 ## 🏫 Where I Work:
  - I teach Network Programming at : 
@@ -58,7 +58,7 @@
 - 🌟 I love contributing to Open Source projects.
 - 💬 Ask me about [Technology/Topic].
 
-## 🤝 Connect with Me:
+## 🤝 Connect with Me {#connect-with-me}:
 
 - **LinkedIn**: [Nahid Sekander LinkedIn](https://www.linkedin.com/in/nahid-sekander-43393b253/)
 - **Email**: [sekander@protonmail.com](mailto:sekander@protonmail.com)
