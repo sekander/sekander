@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me:
 
 - 🔭 I’m currently working on **Personal Projects** 
-- 🌱 I’m currently learning **Full-Stack focusing on Backedn**
+- 🌱 I’m currently learning **Full-Stack focusing on Backend**
 - 👯 I’m looking to collaborate on **Web Apps, Video Game Projects**
 - 🤔 I’m looking for help with **Optimization**
 - 💬 Ask me about **My Web Server**
