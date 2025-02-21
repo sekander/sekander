@@ -66,7 +66,7 @@
 - **Personal Website**: [Self-Hosted Website](https://www.fnkyg3ek.duckdns.org)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awsactivators&show_icons=true&locale=en&layout=compact" alt="awsactivators" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sekander&show_icons=true&locale=en&layout=compact" alt="sekander" /></p>
 
 <!--
 ## 🔥 GitHub Stats:
